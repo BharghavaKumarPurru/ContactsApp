@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bharghava\\source\\repos\\AngularWithWebAPI\\ContactsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91088961-3229-4EBD-8B52-205ABD0ED442}|ContactsAPI\\ContactsAPI.csproj|c:\\users\\bharghava\\source\\repos\\angularwithwebapi\\contactsapi\\contactsapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91088961-3229-4EBD-8B52-205ABD0ED442}|ContactsAPI\\ContactsAPI.csproj|solutionrelative:contactsapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91088961-3229-4EBD-8B52-205ABD0ED442}|ContactsAPI\\ContactsAPI.csproj|c:\\users\\bharghava\\source\\repos\\angularwithwebapi\\contactsapi\\contactsapi\\models\\addcontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91088961-3229-4EBD-8B52-205ABD0ED442}|ContactsAPI\\ContactsAPI.csproj|solutionrelative:contactsapi\\models\\addcontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91088961-3229-4EBD-8B52-205ABD0ED442}|ContactsAPI\\ContactsAPI.csproj|c:\\users\\bharghava\\source\\repos\\angularwithwebapi\\contactsapi\\contactsapi\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91088961-3229-4EBD-8B52-205ABD0ED442}|ContactsAPI\\ContactsAPI.csproj|solutionrelative:contactsapi\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91088961-3229-4EBD-8B52-205ABD0ED442}|ContactsAPI\\ContactsAPI.csproj|c:\\users\\bharghava\\source\\repos\\angularwithwebapi\\contactsapi\\contactsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91088961-3229-4EBD-8B52-205ABD0ED442}|ContactsAPI\\ContactsAPI.csproj|solutionrelative:contactsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddContactRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Bharghava\\source\\repos\\AngularWithWebAPI\\ContactsAPI\\ContactsAPI\\Models\\AddContactRequestDTO.cs",
+              "RelativeDocumentMoniker": "ContactsAPI\\Models\\AddContactRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Bharghava\\source\\repos\\AngularWithWebAPI\\ContactsAPI\\ContactsAPI\\Models\\AddContactRequestDTO.cs",
+              "RelativeToolTip": "ContactsAPI\\Models\\AddContactRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:00:13.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bharghava\\source\\repos\\AngularWithWebAPI\\ContactsAPI\\ContactsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ContactsAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Bharghava\\source\\repos\\AngularWithWebAPI\\ContactsAPI\\ContactsAPI\\Program.cs",
+              "RelativeToolTip": "ContactsAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:00:06.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Bharghava\\source\\repos\\AngularWithWebAPI\\ContactsAPI\\ContactsAPI\\Models\\Domain\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactsAPI\\Models\\Domain\\Contact.cs",
+              "ToolTip": "C:\\Users\\Bharghava\\source\\repos\\AngularWithWebAPI\\ContactsAPI\\ContactsAPI\\Models\\Domain\\Contact.cs",
+              "RelativeToolTip": "ContactsAPI\\Models\\Domain\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T05:45:11.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\Bharghava\\source\\repos\\AngularWithWebAPI\\ContactsAPI\\ContactsAPI\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "ContactsAPI\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\Bharghava\\source\\repos\\AngularWithWebAPI\\ContactsAPI\\ContactsAPI\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "ContactsAPI\\Controllers\\ContactsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T23:12:42.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
