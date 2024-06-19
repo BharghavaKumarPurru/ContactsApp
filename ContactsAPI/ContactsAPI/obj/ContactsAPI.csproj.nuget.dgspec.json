@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bharghava\\source\\repos\\AngularWithWebAPI\\ContactsAPI\\ContactsAPI\\ContactsAPI.csproj": {}
+    "C:\\Users\\Bharghava\\Documents\\GitHub\\ContactsApp\\ContactsAPI\\ContactsAPI\\ContactsAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bharghava\\source\\repos\\AngularWithWebAPI\\ContactsAPI\\ContactsAPI\\ContactsAPI.csproj": {
+    "C:\\Users\\Bharghava\\Documents\\GitHub\\ContactsApp\\ContactsAPI\\ContactsAPI\\ContactsAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bharghava\\source\\repos\\AngularWithWebAPI\\ContactsAPI\\ContactsAPI\\ContactsAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Bharghava\\Documents\\GitHub\\ContactsApp\\ContactsAPI\\ContactsAPI\\ContactsAPI.csproj",
         "projectName": "ContactsAPI",
-        "projectPath": "C:\\Users\\Bharghava\\source\\repos\\AngularWithWebAPI\\ContactsAPI\\ContactsAPI\\ContactsAPI.csproj",
+        "projectPath": "C:\\Users\\Bharghava\\Documents\\GitHub\\ContactsApp\\ContactsAPI\\ContactsAPI\\ContactsAPI.csproj",
         "packagesPath": "C:\\Users\\Bharghava\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bharghava\\source\\repos\\AngularWithWebAPI\\ContactsAPI\\ContactsAPI\\obj\\",
+        "outputPath": "C:\\Users\\Bharghava\\Documents\\GitHub\\ContactsApp\\ContactsAPI\\ContactsAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
