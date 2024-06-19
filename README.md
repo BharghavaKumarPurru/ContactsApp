@@ -1,5 +1,3 @@
-Here's the updated README file with the additional code blocks for the setup instructions:
-
 ```markdown
 # Contacts Management Web Application
 
