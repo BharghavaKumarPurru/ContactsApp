@@ -1,4 +1,4 @@
-```markdown
+
 # Contacts Management Web Application
 
 
@@ -40,7 +40,6 @@ This project is a web application built using Angular for the front end and ASP.
 git clone https://github.com/BharghavaKumarPurru/ContactsApp.git
 cd ContactsApp
 ```
-![image](https://github.com/user-attachments/assets/dc41ea35-e779-44af-b855-c513a1fbfff3)
 ### Set Up the Front End
 
 Navigate to the `ClientApp` directory:
