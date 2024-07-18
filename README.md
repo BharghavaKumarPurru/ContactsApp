@@ -1,6 +1,6 @@
 ```markdown
 # Contacts Management Web Application
-![image](https://github.com/user-attachments/assets/5073e132-65aa-404c-ade7-e0079d5b22d8)
+![image](https://github.com/user-attachments/assets/4b035758-d91e-4e96-8110-62de58c9064c)
 
 
 This project is a web application built using Angular for the front end and ASP.NET Core for the back end. The application allows users to efficiently manage their contacts by adding and deleting them through a seamless interface using Web APIs.
